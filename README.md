@@ -1,12 +1,18 @@
 <div align="center">
 
-# Hi 👋, I'm Aditya Tomar
+# 👋 Hi, I'm Aditya Tomar
 
 ### Building cool things and breaking them to learn why.
 
-[![GitHub followers](https://img.shields.io/github/followers/cineadi?label=Followers&style=for-the-badge&logo=github)](https://github.com/cineadi)
-[![GitHub stars](https://img.shields.io/github/stars/cineadi?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github)](https://github.com/cineadi?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=cineadi&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/cineadi)
+<p>
+  <a href="https://github.com/cineadi">
+    <img src="https://img.shields.io/github/followers/cineadi?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/cineadi?tab=repositories">
+    <img src="https://img.shields.io/github/stars/cineadi?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github" alt="GitHub Stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=cineadi&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 </div>
 
@@ -15,147 +21,155 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **different projects**
-- 🌱 Currently learning **content creation, AI & full-stack development**
+- 🌱 Currently learning **AI, full-stack development & content creation**
 - 🤝 Open to collaborating on **interesting projects and ideas**
-- 💬 Ask me about **full-stack development**
+- 💬 Ask me about **Full-Stack Development**
 - 📫 Reach me at **[adityatomar54123@gmail.com](mailto:adityatomar54123@gmail.com)**
 - ⚡ Fun fact: **I run a gaming channel with 100K+ subscribers**
 
-> *Part-time developer, full-time tech tourist. I learn fast, code by vibe, and ship projects before the hyperfixation fades.* ⚡
+> Building, experimenting, breaking things, fixing them, and learning something new every day. 🚀
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,nodejs,mysql,postgres,flutter,blender,ps,git,github&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,nodejs,mysql,postgres,flutter,blender,photoshop,git,github&perline=7" alt="Tech Stack"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-111827?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AI and ML" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-111827?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AI and ML"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/cineadi">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=cineadi&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark" alt="Aditya's GitHub stats" />
-  </a>
-  <a href="https://github.com/cineadi">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cineadi&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cineadi&theme=github_dark" alt="GitHub profile summary" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+    <img src="./assets/overview.light.svg" alt="GitHub Overview" width="100%">
+  </picture>
 </p>
 
 ---
 
-## 📈 Contributions & Activity
+# 🔥 Contributions & Activity
 
-### 🔥 Contribution Streak
+## 📈 Contribution History
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=cineadi&theme=dark&hide_border=true" alt="GitHub contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg">
+    <img src="./assets/lifetime.light.svg" alt="GitHub Contribution History" width="100%">
+  </picture>
 </p>
 
-### 📊 Contribution Graph
+## 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://github.com/cineadi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cineadi&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+    <img src="./assets/contributions.light.svg" alt="GitHub Contribution Streak" width="100%">
+  </picture>
+</p>
+
+## 📊 Contribution Composition
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/composition.dark.svg">
+    <img src="./assets/composition.light.svg" alt="GitHub Contribution Composition" width="100%">
+  </picture>
+</p>
+
+## ⏰ Activity Rhythm
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/rhythm.dark.svg">
+    <img src="./assets/rhythm.light.svg" alt="GitHub Activity Rhythm" width="100%">
+  </picture>
+</p>
+
+## 💻 Activity Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cineadi/cineadi/output/activity-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cineadi/cineadi/output/activity-graph-light.svg">
+    <img src="https://raw.githubusercontent.com/cineadi/cineadi/output/activity-graph-dark.svg" alt="GitHub Activity Graph" width="100%">
+  </picture>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 💻 Language Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cineadi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
+    <img src="./assets/languages.light.svg" alt="GitHub Languages" width="100%">
+  </picture>
 </p>
 
 ---
 
-## ⭐ Featured Projects
+# ⭐ Featured Projects
 
 <p align="center">
 
 <a href="https://github.com/cineadi?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  <img src="https://img.shields.io/badge/🚀%20Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
 </a>
 
 </p>
 
-<!--
-Add your best repositories here.
+<!-- Add your real projects here when you have them.
 
-Example:
-
-<a href="https://github.com/cineadi/YOUR_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cineadi&repo=YOUR_REPO&theme=github_dark&hide_border=true" alt="YOUR_REPO" />
-</a>
-
-<a href="https://github.com/cineadi/YOUR_SECOND_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cineadi&repo=YOUR_SECOND_REPO&theme=github_dark&hide_border=true" alt="YOUR_SECOND_REPO" />
+<a href="https://github.com/cineadi/YOUR_REPOSITORY">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cineadi&repo=YOUR_REPOSITORY&theme=github_dark&hide_border=true" alt="YOUR_REPOSITORY"/>
 </a>
 
 -->
 
 ---
 
-## 💻 Languages & Tools
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,nodejs,mysql,postgres,flutter,blender,photoshop,git,github&perline=7" alt="Languages and tools" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cineadi/cineadi/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cineadi/cineadi/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/cineadi/cineadi/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
+  </picture>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/cineadi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://instagram.com/adifrxx">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="mailto:adityatomar54123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<!--
-
-The snake animation requires a GitHub Action.
-
-After setting it up, uncomment this:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cineadi/cineadi/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
--->
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by! 🚀
-
-**Build. Break. Learn. Repeat.**
+### 🚀 Build. Break. Learn. Repeat.
 
 </div>
