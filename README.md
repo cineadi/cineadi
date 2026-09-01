@@ -53,45 +53,6 @@
   </picture>
 </p>
 
----
-
-# 🔥 Contributions & Activity
-
-## 📈 Contribution History
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg">
-    <img src="./assets/lifetime.light.svg" alt="GitHub Contribution History" width="100%">
-  </picture>
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
-    <img src="./assets/contributions.light.svg" alt="GitHub Contribution Streak" width="100%">
-  </picture>
-</p>
-
-## 📊 Contribution Composition
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/composition.dark.svg">
-    <img src="./assets/composition.light.svg" alt="GitHub Contribution Composition" width="100%">
-  </picture>
-</p>
-
-## ⏰ Activity Rhythm
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/rhythm.dark.svg">
-    <img src="./assets/rhythm.light.svg" alt="GitHub Activity Rhythm" width="100%">
-  </picture>
-</p>
 
 ## 💻 Activity Graph
 
@@ -136,15 +97,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cineadi/cineadi/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cineadi/cineadi/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/cineadi/cineadi/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
-  </picture>
-</p>
 
 ---
 
