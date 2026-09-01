@@ -61,7 +61,20 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cineadi/cineadi/gh-pages/github-contribution-grid-snake.svg?v=1" alt="GitHub Contribution Snake" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/cineadi/cineadi/gh-pages/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/cineadi/cineadi/gh-pages/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/cineadi/cineadi/gh-pages/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---
