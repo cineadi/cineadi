@@ -53,7 +53,7 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cineadi&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/cineadi/cineadi/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
