@@ -1,127 +1,115 @@
-<div align="center">
+# Hey, I'm Aditya Tomar 👋
 
-# 👋 Hi, I'm Aditya Tomar
+### `Vibe Coder • Full-Stack Learner • Builder`
 
-### Building cool things and breaking them to learn why.
-
-<p>
-  <a href="https://github.com/cineadi">
-    <img src="https://img.shields.io/github/followers/cineadi?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/cineadi?tab=repositories">
-    <img src="https://img.shields.io/github/stars/cineadi?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github" alt="GitHub Stars"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=cineadi&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-</div>
+> Part-time developer, full-time tech tourist.
+> I learn fast, build things that interest me, and ship projects before the hyperfixation fades. ⚡
 
 ---
 
-## 👨‍💻 About Me
+### 🚀 About Me
 
-- 🔭 Currently working on **different projects**
-- 🌱 Currently learning **AI, full-stack development & content creation**
-- 🤝 Open to collaborating on **interesting projects and ideas**
-- 💬 Ask me about **Full-Stack Development**
-- 📫 Reach me at **[adityatomar54123@gmail.com](mailto:adityatomar54123@gmail.com)**
-- ⚡ Fun fact: **I run a gaming channel with 100K+ subscribers**
-
-> Building, experimenting, breaking things, fixing them, and learning something new every day. 🚀
+* 📍 Based in **Dehradun, India**
+* 💻 Currently learning **Full-Stack Development**
+* 🧠 Exploring **AI, Web Development & Software Engineering**
+* 🛠️ Building and experimenting with **personal & upcoming projects**
+* 🤝 Open to collaborating on **interesting projects**
+* 🎬 Also run a **100K+ subscriber YouTube channel**
+* 📫 Reach me at **[adityatomar54123@gmail.com](mailto:adityatomar54123@gmail.com)**
 
 ---
 
-## 🛠️ Tech Stack
+### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,nodejs,mysql,postgres,flutter,blender,photoshop,git,github&perline=7" alt="Tech Stack"/>
-</p>
+<p align="left">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-111827?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AI and ML"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" title="Python"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="Node.js" title="Node.js"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" title="MySQL"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40" alt="Flutter" title="Flutter"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code" title="VS Code"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" title="Linux"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" title="Figma"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="40" height="40" alt="Photoshop" title="Photoshop"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="40" height="40" alt="Premiere Pro" title="Premiere Pro"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="40" height="40" alt="Blender" title="Blender"/>
+
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
-    <img src="./assets/overview.light.svg" alt="GitHub Overview" width="100%">
-  </picture>
-</p>
-
-
-## 💻 Activity Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cineadi/cineadi/output/activity-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cineadi/cineadi/output/activity-graph-light.svg">
-    <img src="https://raw.githubusercontent.com/cineadi/cineadi/output/activity-graph-dark.svg" alt="GitHub Activity Graph" width="100%">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=cineadi&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cineadi&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-# 💻 Language Statistics
+### 🔥 Contribution Streak
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
-    <img src="./assets/languages.light.svg" alt="GitHub Languages" width="100%">
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=cineadi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# ⭐ Featured Projects
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cineadi/cineadi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+### 🚀 Featured Projects
 
 <p align="center">
 
-<a href="https://github.com/cineadi?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀%20Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+<a href="https://github.com/cineadi/Programming-In-C">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cineadi&repo=Programming-In-C&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
 
-<!-- Add your real projects here when you have them.
-
-<a href="https://github.com/cineadi/YOUR_REPOSITORY">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cineadi&repo=YOUR_REPOSITORY&theme=github_dark&hide_border=true" alt="YOUR_REPOSITORY"/>
-</a>
-
--->
-
 ---
 
+### 🌐 Connect With Me
 
----
-
-# 🤝 Connect With Me
-
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/cineadi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub"/>
 </a>
 
-<a href="https://instagram.com/adifrxx">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://www.linkedin.com/in/Aditya-tomar">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:adityatomar54123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://www.facebook.com/share/1DdWnTJkLN/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="36" height="36" alt="Facebook"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+### 💭 Current Mindset
 
-### 🚀 Build. Break. Learn. Repeat.
+```text
+Learn → Build → Break → Fix → Ship → Repeat
+```
 
-</div>
+<p align="center">
+  <i>"Don't just learn the technology. Build something with it."</i>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for stopping by! ⭐</b>
+</p>
