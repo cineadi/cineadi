@@ -2,7 +2,7 @@
 
 ### `Vibe Coder • Full-Stack Learner • Builder`
 
-> Part-time developer, full-time tech tourist.
+> Part-time Developer, full-time tech tourist.
 > I learn fast, build things that interest me, and ship projects before the hyperfixation fades. ⚡
 
 ---
